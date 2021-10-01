@@ -162,4 +162,6 @@ button:hover {
         padding: 3rem 3rem;
     
     }
+    .order::after {}
+    .order::before {}
 }
